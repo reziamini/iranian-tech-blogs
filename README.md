@@ -18,3 +18,7 @@ Here we have some of tech blogs for iranian companies.
 [Snapp](https://engineering.snapp.ir/)
 
 [Balad](https://virgool.io/BaladMaps/)
+
+[Ditty](https://ditty.ir/posts)
+
+[Zommit](https://www.zoomit.ir/internet-network/)
